@@ -1,2 +1,2 @@
-First clone coding with react.js.
+First clone coding with react.js and CSS.
 cloned website url: https://www.bostonroadrunners.org/
