@@ -39,7 +39,8 @@ const layout = (props) => {
 
     return (
         <Switch>
-            <Route path = "/" exact render = {() => mainPage} />
+            <Route path = "/about" exact render = {() => aboutPage} />
+            <Route path = "/" render = {() => mainPage} />
         </Switch>
     )
 }
