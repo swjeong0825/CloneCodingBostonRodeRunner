@@ -1,0 +1,23 @@
+.wrapper{
+    height: 500px;
+    background-color: white;
+}
+
+.head{
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+}
+
+
+
+.body div{
+    width: 33.3333%;
+    text-align: center;
+    margin-top: -30px;
+}
+
+.body img{
+    height: 320px;
+    width: auto;
+}

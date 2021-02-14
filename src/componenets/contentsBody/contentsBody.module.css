@@ -1,0 +1,34 @@
+.wrapper{
+    height: 150px;
+    display: flex;
+}
+
+.contents{
+    width: 33.33333%;
+    text-align: center;
+    color: white;
+}   
+
+.mission{
+    background-color: rgb(43,112,222);
+}
+
+.events{
+    background-color: rgb(1,166,255);
+}
+
+.involved{
+    background-color: rgb(32,62,140);
+}
+
+.head{
+    display: block;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.underline{
+    text-decoration: underline;
+}

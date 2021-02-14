@@ -1,0 +1,40 @@
+.header {
+    background-color: rgba(40,47,148, 0.6);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.outerBody {
+    display: flex;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    height: 70px;
+
+}
+
+.donateButton {
+    background-color: red;
+    transition: background-color 0.2s ease-in;
+
+    color: white;
+    font-size: 20px;
+    padding: 0 40px;
+}
+
+.donateButton:hover{
+    background-color: rgb(153,5,5);
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style-type: none;
+    margin: 0 20px;
+    font-size: 20px;
+
+}

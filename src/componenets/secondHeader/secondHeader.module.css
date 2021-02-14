@@ -1,0 +1,30 @@
+.wrapper {
+    background-color: rgba(45,96,250, 0.7);
+    height: 70px;
+
+}
+
+.surveyButton {   
+    color: white;
+    background-color: rgb(47,188,238);
+    margin: 0 auto;
+    display: block;
+    font-size: 16px;
+    padding: 3px 10px;
+}
+.surveyButton:hover{
+    background-color: darkred;
+    transition: background-color 0.2s ease-in;
+
+}
+
+.outerBody {
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    font-size: 20px;
+    padding-top: 5px;
+    font-weight:500;
+
+}

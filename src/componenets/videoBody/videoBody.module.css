@@ -1,0 +1,48 @@
+.wrapper {
+    height: 500px;
+    width: 100%;
+    position: relative;
+}
+
+.wrapper div,
+.wrapper video{
+    position: absolute;
+
+}
+
+.wrapper video{
+    z-index: -10;
+}
+
+.wrapper div{
+    text-align: center;
+    width: 100%;
+    left: 0px;
+    z-index: 10;
+    margin-top: 100px;
+    color: yellow;
+    font-size: 60px;
+    font-weight: bold;
+    white-space: pre-line;
+    letter-spacing: 30px;
+}
+
+.body button{
+    color: rgb(43,112,222);
+    background-color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 8px 40px;
+    border-radius: 30px;
+    border: solid;
+    border-color: red;
+    border-width: 5px;
+    cursor: pointer;
+}
+
+.body button:hover{
+    background-color: rgba(76,73,86, 0.6);
+    color: white;
+    border: none;
+    transition: ease-out 0.2s;
+}
