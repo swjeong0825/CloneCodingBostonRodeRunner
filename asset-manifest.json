@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/CloneCodingBostonRodeRunner/static/css/main.d8caa596.chunk.css",
+    "main.js": "/CloneCodingBostonRodeRunner/static/js/main.e1154e73.chunk.js",
+    "main.js.map": "/CloneCodingBostonRodeRunner/static/js/main.e1154e73.chunk.js.map",
+    "runtime-main.js": "/CloneCodingBostonRodeRunner/static/js/runtime-main.f8173c3e.js",
+    "runtime-main.js.map": "/CloneCodingBostonRodeRunner/static/js/runtime-main.f8173c3e.js.map",
+    "static/js/2.e8719d9a.chunk.js": "/CloneCodingBostonRodeRunner/static/js/2.e8719d9a.chunk.js",
+    "static/js/2.e8719d9a.chunk.js.map": "/CloneCodingBostonRodeRunner/static/js/2.e8719d9a.chunk.js.map",
+    "static/js/3.4c46b7ef.chunk.js": "/CloneCodingBostonRodeRunner/static/js/3.4c46b7ef.chunk.js",
+    "static/js/3.4c46b7ef.chunk.js.map": "/CloneCodingBostonRodeRunner/static/js/3.4c46b7ef.chunk.js.map",
+    "index.html": "/CloneCodingBostonRodeRunner/index.html",
+    "static/css/main.d8caa596.chunk.css.map": "/CloneCodingBostonRodeRunner/static/css/main.d8caa596.chunk.css.map",
+    "static/js/2.e8719d9a.chunk.js.LICENSE.txt": "/CloneCodingBostonRodeRunner/static/js/2.e8719d9a.chunk.js.LICENSE.txt",
+    "static/media/backgroundImg.e41b0dab.jpg": "/CloneCodingBostonRodeRunner/static/media/backgroundImg.e41b0dab.jpg",
+    "static/media/facebookLogo.b2c83963.webp": "/CloneCodingBostonRodeRunner/static/media/facebookLogo.b2c83963.webp",
+    "static/media/instagramLogo.3dd78b90.webp": "/CloneCodingBostonRodeRunner/static/media/instagramLogo.3dd78b90.webp",
+    "static/media/runners.a44874f8.webp": "/CloneCodingBostonRodeRunner/static/media/runners.a44874f8.webp",
+    "static/media/springRace.18acdc29.png": "/CloneCodingBostonRodeRunner/static/media/springRace.18acdc29.png",
+    "static/media/turkey.e5a16442.webp": "/CloneCodingBostonRodeRunner/static/media/turkey.e5a16442.webp",
+    "static/media/twitterLogo.6acf4520.webp": "/CloneCodingBostonRodeRunner/static/media/twitterLogo.6acf4520.webp",
+    "static/media/videoMainPage.9a4cc337.mp4": "/CloneCodingBostonRodeRunner/static/media/videoMainPage.9a4cc337.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8173c3e.js",
+    "static/js/2.e8719d9a.chunk.js",
+    "static/css/main.d8caa596.chunk.css",
+    "static/js/main.e1154e73.chunk.js"
+  ]
+}
